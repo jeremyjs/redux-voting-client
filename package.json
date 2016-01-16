@@ -23,5 +23,8 @@
     "babel-preset-react": "^6.3.13",
     "webpack": "^1.12.11",
     "webpack-dev-server": "^1.14.1"
+  },
+  "babel": {
+    "presets": ["es2015", "react"]
   }
 }
